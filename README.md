@@ -1,5 +1,5 @@
 # MotionDetections
-OpenCVとDlibを使用して様々な顔の動作検知を実装しています。
+OpenCVとDlibを使用することで、リアルタイムに様々な顔の動作検知を実装しています。
 
 ## faceDirectionDetection.py
 顔が正面を向いているかどうかを検知します。
